@@ -7,6 +7,7 @@ The application classifies whether the image is cat or not non cat using supervi
 
 Python, Deep learning models
 
-'''
-In python file steps are mentioned
-'''
+```
+In Python file steps are mentioned.
+
+```
